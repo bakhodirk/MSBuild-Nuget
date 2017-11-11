@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MSBuild.Nuget
+namespace MSBuild.Nuget.Test
 {
-    public class Class1
+    class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }
