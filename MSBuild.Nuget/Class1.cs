@@ -8,5 +8,6 @@ namespace MSBuild.Nuget
 {
     public class Class1
     {
+
     }
 }
